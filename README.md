@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **AR/VR-GAN**
 
-- 🌱 I’m currently learning **A bunch of COS modules**
+- 🌱 I’m currently learning **Computer Science**
 
-- 🤝 I’m looking for help with **Life**
+- 🤝 I’m looking for help with **Finding work**
 
 - 💬 Ask me about **My world view**
 
-- 📫 How to reach me **u17067210@tuks.co.za**
+- 📫 How to reach me **zachariah@idiculla.co.za**
 
 - ⚡ Fun fact **I speak 4 languages**
 
