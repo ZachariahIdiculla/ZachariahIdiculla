@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 🤝 I’m looking for help with **Finding work**
+- 🤝 I’m looking for help with **finding work**
 
 - 💬 Ask me about **My world view**
 
