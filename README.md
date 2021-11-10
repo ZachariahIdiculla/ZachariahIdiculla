@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zachariah Idiculla</h1>
 <h3 align="center">BSc Computer Science student at UP</h3>
 
-- 🔭 I’m currently working on **AR/VR-GAN**
+- 🔭 I’m currently working on getting my Degree
 
 - 🌱 I’m currently learning **Computer Science**
 
