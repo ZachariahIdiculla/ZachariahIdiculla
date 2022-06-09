@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zachariah Idiculla</h1>
-<h3 align="center">BSc Computer Science student at UP</h3>
+<h3 align="center">BSc Computer Science Hons student at UP as well as working full time as a software dev</h3>
 
-- 🔭 I’m currently working on getting my Degree
+- 🔭 I’m currently at Tangent Solutions
 
 - 🌱 I’m currently learning **Computer Science**
-
-- 🤝 I’m looking for help with **finding work**
 
 - 💬 Ask me about **My world view**
 
